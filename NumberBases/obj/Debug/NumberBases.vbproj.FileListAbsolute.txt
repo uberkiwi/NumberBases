@@ -1,0 +1,25 @@
+c:\users\joshi chan\documents\visual studio 2015\Projects\NumberBases\NumberBases\bin\Debug\NumberBases.exe.config
+c:\users\joshi chan\documents\visual studio 2015\Projects\NumberBases\NumberBases\bin\Debug\NumberBases.exe
+c:\users\joshi chan\documents\visual studio 2015\Projects\NumberBases\NumberBases\bin\Debug\NumberBases.pdb
+c:\users\joshi chan\documents\visual studio 2015\Projects\NumberBases\NumberBases\bin\Debug\NumberBases.xml
+c:\users\joshi chan\documents\visual studio 2015\Projects\NumberBases\NumberBases\obj\Debug\NumberBases.vbprojResolveAssemblyReference.cache
+c:\users\joshi chan\documents\visual studio 2015\Projects\NumberBases\NumberBases\obj\Debug\NumberBases.BaseConvert.resources
+c:\users\joshi chan\documents\visual studio 2015\Projects\NumberBases\NumberBases\obj\Debug\NumberBases.Resources.resources
+c:\users\joshi chan\documents\visual studio 2015\Projects\NumberBases\NumberBases\obj\Debug\NumberBases.vbproj.GenerateResource.Cache
+c:\users\joshi chan\documents\visual studio 2015\Projects\NumberBases\NumberBases\obj\Debug\NumberBases.exe
+c:\users\joshi chan\documents\visual studio 2015\Projects\NumberBases\NumberBases\obj\Debug\NumberBases.xml
+c:\users\joshi chan\documents\visual studio 2015\Projects\NumberBases\NumberBases\obj\Debug\NumberBases.pdb
+C:\Users\uberk\Documents\Visual Studio 2015\Projects\NumberBases\NumberBases\bin\Debug\NumberBases.exe.config
+C:\Users\uberk\Documents\Visual Studio 2015\Projects\NumberBases\NumberBases\obj\Debug\NumberBases.exe
+C:\Users\uberk\Documents\Visual Studio 2015\Projects\NumberBases\NumberBases\obj\Debug\NumberBases.xml
+C:\Users\uberk\Documents\Visual Studio 2015\Projects\NumberBases\NumberBases\obj\Debug\NumberBases.pdb
+C:\Users\uberk\Documents\Visual Studio 2015\Projects\NumberBases\NumberBases\bin\Debug\NumberBases.exe
+C:\Users\uberk\Documents\Visual Studio 2015\Projects\NumberBases\NumberBases\bin\Debug\NumberBases.pdb
+C:\Users\uberk\Documents\Visual Studio 2015\Projects\NumberBases\NumberBases\bin\Debug\NumberBases.xml
+C:\Users\uberk\Documents\Visual Studio 2015\Projects\NumberBases\NumberBases\obj\Debug\NumberBases.BaseConvert.resources
+C:\Users\uberk\Documents\Visual Studio 2015\Projects\NumberBases\NumberBases\obj\Debug\NumberBases.Resources.resources
+C:\Users\uberk\Documents\Visual Studio 2015\Projects\NumberBases\NumberBases\obj\Debug\NumberBases.vbproj.GenerateResource.Cache
+C:\Users\uberk\Desktop\build\BaseConvert\NumberBases.exe.config
+C:\Users\uberk\Desktop\build\BaseConvert\NumberBases.exe
+C:\Users\uberk\Desktop\build\BaseConvert\NumberBases.pdb
+C:\Users\uberk\Desktop\build\BaseConvert\NumberBases.xml
